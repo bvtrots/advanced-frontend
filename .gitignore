@@ -10,7 +10,7 @@
 
 # production
 /dist
-/*build
+/build
 # misc
 Thumbs.db
 .DS_Store
